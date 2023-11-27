@@ -1,0 +1,2 @@
+Version control, also known as source control, is the practice of tracking and managing changes to software code. 
+Version control systems are software tools that helps manage changes to source code over time. It keeps a complete history of your code and other files, allowing you to return to a previous version if needed.
